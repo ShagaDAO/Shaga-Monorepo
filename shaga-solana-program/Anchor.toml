@@ -1,0 +1,26 @@
+[features]
+seeds = false
+
+[programs.localnet]
+shagaJoe = "9SwYZxTQUYruFSHYeTqrtB5pTtuGJEGksh7ufpNS1YK5"
+
+[programs.devnet]
+shagaJoe = "9SwYZxTQUYruFSHYeTqrtB5pTtuGJEGksh7ufpNS1YK5"
+
+[programs.mainnet]
+shagaJoe = "9SwYZxTQUYruFSHYeTqrtB5pTtuGJEGksh7ufpNS1YK5"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
+
+[workspace]
+members = [
+    "programs/shagaJoe"
+]
