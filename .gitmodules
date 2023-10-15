@@ -1,3 +1,6 @@
 [submodule "shaga-server"]
 	path = shaga-server
 	url = https://github.com/chat-grp/Sunshine.git
+[submodule "shaga-client"]
+	path = shaga-client
+	url = https://github.com/chat-grp/moonlight-android.git
