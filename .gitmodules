@@ -1,0 +1,3 @@
+[submodule "shaga-server"]
+	path = shaga-server
+	url = https://github.com/chat-grp/Sunshine.git
