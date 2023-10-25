@@ -7,3 +7,12 @@
 [submodule "shaga-solana-program"]
 	path = shaga-solana-program
 	url = https://github.com/crypt0miester/Shaga-Program.git
+[submodule "Sunshine-shaga-server-v0.2"]
+	path = Sunshine-shaga-server-v0.2
+	url = https://github.com/chat-grp/Sunshine.git
+[submodule "moonlight-android-shaga-client-v0.2"]
+	path = moonlight-android-shaga-client-v0.2
+	url = https://github.com/chat-grp/moonlight-android.git
+[submodule "Shaga-Program-main"]
+	path = Shaga-Program-main
+	url = https://github.com/crypt0miester/Shaga-Program.git
