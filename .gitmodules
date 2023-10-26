@@ -6,3 +6,7 @@
 	path = shaga-client
 	url = https://github.com/chat-grp/moonlight-android.git
 	branch = shaga-client-v0.2
+[submodule "shaga-solana-program"]
+	path = shaga-solana-program
+	url = https://github.com/crypt0miester/Shaga-Program.git
+	branch = main
