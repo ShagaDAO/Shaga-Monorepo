@@ -1,9 +1,8 @@
 [submodule "shaga-server"]
 	path = shaga-server
 	url = https://github.com/chat-grp/Sunshine.git
+	branch = shaga-server-v0.2
 [submodule "shaga-client"]
 	path = shaga-client
 	url = https://github.com/chat-grp/moonlight-android.git
-[submodule "shaga-solana-program"]
-	path = shaga-solana-program
-	url = https://github.com/crypt0miester/Shaga-Program.git
+	branch = shaga-client-v0.2
